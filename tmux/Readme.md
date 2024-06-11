@@ -1,3 +1,5 @@
+[back](../Readme.md)
+
 # TMUX Configuration
 
 ## Setup

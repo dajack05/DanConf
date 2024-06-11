@@ -1,3 +1,5 @@
+[back](../Readme.md)
+
 # NVIM Configuration
 
 ## Setup
