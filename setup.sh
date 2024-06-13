@@ -1,5 +1,8 @@
 #/bin/bash
 
+echo "Installing TPM for tmux"
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
 echo "Installing tmux config"
 cp ./tmux/.tmux.conf ~/.tmux.conf
 
